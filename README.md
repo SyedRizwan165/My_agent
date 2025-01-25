@@ -2,8 +2,8 @@
 
 A sophisticated personal AI assistant built using the [PHI](https://github.com/phidatahq/phidata) framework, combining multiple specialized agents for comprehensive personal and business support.
 
-![AI Assistant Demo](C:\Users\WINDOWS10\Desktop\my_agent\Agent_Business_plan.png)
-![AI Assistant Demo](C:\Users\WINDOWS10\Desktop\my_agent\Ai_Assistant.png)
+![AI Assistant Demo](Agent_Business_plan.png)
+![AI Assistant Demo](Ai_Assistant.png)
 ## Features 🌟
 
 - **Multi-Agent Architecture**:
